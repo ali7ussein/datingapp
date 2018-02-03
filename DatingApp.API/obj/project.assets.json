@@ -12880,11 +12880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development Work\\TFSOnline\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "D:\\Development Work\\TFSOnline\\DatingApp\\datingapp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "D:\\Development Work\\TFSOnline\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "D:\\Development Work\\TFSOnline\\DatingApp\\datingapp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-      "outputPath": "D:\\Development Work\\TFSOnline\\DatingApp\\DatingApp.API\\obj\\",
+      "outputPath": "D:\\Development Work\\TFSOnline\\DatingApp\\datingapp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -18,3 +18,13 @@ D:\Development Work\TFSOnline\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\Da
 D:\Development Work\TFSOnline\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
 D:\Development Work\TFSOnline\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
 D:\Development Work\TFSOnline\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+D:\Development Work\TFSOnline\DatingApp\datingapp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
